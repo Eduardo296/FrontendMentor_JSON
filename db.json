@@ -1,13 +1,6 @@
 {
     "produtos": [
       {
-        "id": "5312",
-        "img": "images/image-product-1.jpg",
-        "nome": "Fall Limited Edition <br>Sneakers",
-        "preco": "125.00",
-        "quantidade": 2
-      },
-      {
         "id": "e19b",
         "img": "images/Tenis 3.avif",
         "nome": "Tênis Nike Court Vision Low Next Nature Masculino",
